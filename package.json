@@ -1,0 +1,9 @@
+{
+  "name": "java-delimited-file-reader",
+  "private": true,
+  "scripts": {
+    "compile": "javac *.java",
+    "run:example1": "java ScanDelimiterdFile",
+    "run:example2": "java MyRunner"
+  }
+}
